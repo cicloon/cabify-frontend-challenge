@@ -19,9 +19,8 @@ To complete the challenge you need to create a form in react with the given HTML
 2. The data from the form inputs must be reflected on the business card on the left. The data must be reflected in the card at the same time the user inputs data.
 3. The submit button must stay disabled until the user fills all the data.
 ### Bonus points:
-* Keyboard navigation inside the Select component
 * Input validation
-* The data must be submitted properly (don't worry about the request itself, only that the data is being submitted correctly)
+* Submit the data properly (don't worry about the request itself, only that the data is being submitted correctly)
 ### Note
 * You can modify the HTML at will
 * If you decide to use flags to enhance the select component you can get them from [here](https://github.com/madebybowtie/FlagKit)
